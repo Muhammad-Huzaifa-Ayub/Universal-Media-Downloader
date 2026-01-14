@@ -179,19 +179,3 @@ Resolution: 720p (width 1280)
 Audio     : Yes
 ----------------
 ```
-
----
-
-## License
-
-Add a license file to the repository (for example, `MIT`) to clarify reuse and redistribution terms.
-
----
-
-If you want, I can:
-
-* produce a `README.md` file for you and add it to the repo,
-* or create a `config.example.toml` and a small `cli.py` wrapper that accepts arguments, or
-* convert the script to accept command-line flags (non-interactive friendly).
-
-Tell me which of the above you prefer and I will produce it next.
